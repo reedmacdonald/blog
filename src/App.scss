@@ -1,3 +1,5 @@
+$pink-color:rgb(242,157,163);
+
 .article{
   border-radius:3.5%;
   box-shadow:0px 7px 2.5px -2.5px rgb(187, 186, 186);
@@ -27,7 +29,7 @@
   #div2 { grid-area: 8 / 1 / 13 / 4; 
           background-image: linear-gradient(rgb(68,171,201),white)}
   #div3 { grid-area: 8 / 4 / 13 / 7; 
-          background-image: linear-gradient(rgb(242,157,163),white)
+          background-image: linear-gradient($pink-color,white)
   }
   #div4 { grid-area: 9 / 7 / 13 / 13; 
           background-image: linear-gradient(to right, rgb(95,185,250),white)
@@ -57,13 +59,15 @@
     color:white;
     margin-left:10px;
     z-index: 10;
-    position:relative
+    position:absolute;
+    margin-top:-15px
   }
   h5{
     color:white;
     margin-left:10px;
     font-weight: 200
   }
+ 
   button{
     position: relative;
         z-index: 100;
@@ -77,10 +81,10 @@
     
   }
   .topRight{
-    margin-top: 80px
+    margin-top: 77%
   }
   #pinkButton{
-    color:rgb(242,157,163)
+    color:$pink-color
   }
   #tanButton{
     color:rgb(204,164,132);
@@ -96,7 +100,8 @@
 
   }
   #greenButton{
-    color:rgb(111,171,167)
+    color:rgb(111,171,167);
+    margin-top: 25%
   }
   #hand{
     height:600px;
