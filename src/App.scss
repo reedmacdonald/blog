@@ -81,11 +81,11 @@ $pink-color:rgb(242,157,163);
     
   }
   .topRight{
-    margin-top: 67%
+    margin-top: 57%
   }
   #pinkButton{
     color:$pink-color;
-    margin-top: 70%
+    margin-top: 60%
   }
   #tanButton{
     color:rgb(204,164,132);
@@ -97,21 +97,21 @@ $pink-color:rgb(242,157,163);
   }
   #navyButton{
     color:rgb(68,171,201);
-    margin-top: 70%;
+    margin-top: 60%;
     
 
   }
   #greenButton{
     color:rgb(111,171,167);
-    margin-top: 25%
+    margin-top: 15%
   }
   #hand{
     height:230px;
     width:140px;
-    margin-top:120px;
+    margin-top:70px;
   }
   #otherHand{
-    margin-top: -20%;
+    margin-top: 30%;
     margin-left: 20%;
     width: 120px;
     height:200px
@@ -211,16 +211,19 @@ $pink-color:rgb(242,157,163);
   position: absolute;
 }
 #cornerOne{
-  margin-left: 100px;
+  margin-left: 180px;
   margin-top: 110px
 }
+#titleOne{
+  max-width: 330px;
+}
 #apartment{
-  margin-left: 50%;
-  margin-top: 0%
+  margin-left: 380px;
+  margin-top: 35px
 }
 #plant{
   position: absolute;
-  margin-top: 175px;
+  margin-top: 125px;
   margin-left: 80px
 }
 #profilePic{

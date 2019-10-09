@@ -44,7 +44,7 @@ class App extends Component{
     <div id='div5' ><h1><b>Lifestyle.</b></h1><h4>The latest and best lifestyle articles selected by our editorial staff</h4></div>
     <div id='div6' className='article'><h5>Architecture</h5><h1 className='titles'>The Brand New NASA Office</h1><br/><button className='topRight' id='blackButton'><b>Read for $0.19</b></button><img className='artImg' id='cornerOne' src={Part2}></img></div>
     <div id='div7' className='article'><h5>Travel</h5><h1  className='titles'>Experience the Saharan Sands</h1><br/><button  id='tanButton' className='topRight'><b>Read for $0.29</b></button><img className='artImg' id='hand' src={Part4}></img></div>
-    <div id='div8' className='article'><h5>Food</h5><h1 className='titles'>Wake Up and Smell the Coffee</h1><br/><button id='greenButton'><b>Read for $0.99</b></button><img className='artImg' id='cup' src={Part1}></img></div>
+    <div id='div8' className='article'><h5>Food</h5><h1 id='titleOne' className='titles'>Wake Up and Smell the Coffee</h1><br/><button id='greenButton'><b>Read for $0.99</b></button><img className='artImg' id='cup' src={Part1}></img></div>
   </div>
     )
   }
