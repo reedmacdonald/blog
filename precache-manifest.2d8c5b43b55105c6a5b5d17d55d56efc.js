@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0084b6990d03213459a70b2a6dabd33",
+    "revision": "94548919a0355e3065513b094e609e4f",
     "url": "/blog/index.html"
   },
   {
-    "revision": "c3627469fce09b7c127d",
+    "revision": "117b11ce0730c05efb68",
     "url": "/blog/static/css/main.39d35986.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog/static/js/2.e2a9aede.chunk.js"
   },
   {
-    "revision": "c3627469fce09b7c127d",
-    "url": "/blog/static/js/main.6ddd7bf4.chunk.js"
+    "revision": "117b11ce0730c05efb68",
+    "url": "/blog/static/js/main.046f2cc2.chunk.js"
   },
   {
     "revision": "3a3711c6d64764388d0b",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5da1eabdf9970738b12296a036f2fb8c",
     "url": "/blog/static/media/otherHand.5da1eabd.png"
+  },
+  {
+    "revision": "65d7408e050be96d582d9ee617d7f68b",
+    "url": "/blog/static/media/part1.65d7408e.png"
   },
   {
     "revision": "afdc2fcd4df5333219e3977cf1ca572d",
