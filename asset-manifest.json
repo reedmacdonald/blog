@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blog/static/css/main.0951ae7d.chunk.css",
+    "main.css": "/blog/static/css/main.6f758318.chunk.css",
     "main.js": "/blog/static/js/main.6afdaff1.chunk.js",
     "main.js.map": "/blog/static/js/main.6afdaff1.chunk.js.map",
     "runtime-main.js": "/blog/static/js/runtime-main.73a9e20c.js",
@@ -8,9 +8,9 @@
     "static/js/2.e2a9aede.chunk.js": "/blog/static/js/2.e2a9aede.chunk.js",
     "static/js/2.e2a9aede.chunk.js.map": "/blog/static/js/2.e2a9aede.chunk.js.map",
     "index.html": "/blog/index.html",
-    "precache-manifest.bca0c14d75f885aab52603044381b6c5.js": "/blog/precache-manifest.bca0c14d75f885aab52603044381b6c5.js",
+    "precache-manifest.2d0eef00b3cad6609ebf6b81a8260720.js": "/blog/precache-manifest.2d0eef00b3cad6609ebf6b81a8260720.js",
     "service-worker.js": "/blog/service-worker.js",
-    "static/css/main.0951ae7d.chunk.css.map": "/blog/static/css/main.0951ae7d.chunk.css.map",
+    "static/css/main.6f758318.chunk.css.map": "/blog/static/css/main.6f758318.chunk.css.map",
     "static/media/apartment.png": "/blog/static/media/apartment.dda33460.png",
     "static/media/buildingCornerOne.png": "/blog/static/media/buildingCornerOne.d862ff8c.png",
     "static/media/cube.png": "/blog/static/media/cube.d86cb796.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.73a9e20c.js",
     "static/js/2.e2a9aede.chunk.js",
-    "static/css/main.0951ae7d.chunk.css",
+    "static/css/main.6f758318.chunk.css",
     "static/js/main.6afdaff1.chunk.js"
   ]
 }
