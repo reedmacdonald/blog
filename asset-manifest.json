@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blog/static/css/main.39d35986.chunk.css",
+    "main.css": "/blog/static/css/main.0a32f6db.chunk.css",
     "main.js": "/blog/static/js/main.046f2cc2.chunk.js",
     "main.js.map": "/blog/static/js/main.046f2cc2.chunk.js.map",
     "runtime-main.js": "/blog/static/js/runtime-main.73a9e20c.js",
@@ -8,9 +8,9 @@
     "static/js/2.e2a9aede.chunk.js": "/blog/static/js/2.e2a9aede.chunk.js",
     "static/js/2.e2a9aede.chunk.js.map": "/blog/static/js/2.e2a9aede.chunk.js.map",
     "index.html": "/blog/index.html",
-    "precache-manifest.2d8c5b43b55105c6a5b5d17d55d56efc.js": "/blog/precache-manifest.2d8c5b43b55105c6a5b5d17d55d56efc.js",
+    "precache-manifest.eca208140d26a232b22543e3d731b6ef.js": "/blog/precache-manifest.eca208140d26a232b22543e3d731b6ef.js",
     "service-worker.js": "/blog/service-worker.js",
-    "static/css/main.39d35986.chunk.css.map": "/blog/static/css/main.39d35986.chunk.css.map",
+    "static/css/main.0a32f6db.chunk.css.map": "/blog/static/css/main.0a32f6db.chunk.css.map",
     "static/media/apartment.png": "/blog/static/media/apartment.dda33460.png",
     "static/media/buildingCornerOne.png": "/blog/static/media/buildingCornerOne.d862ff8c.png",
     "static/media/cube.png": "/blog/static/media/cube.d86cb796.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.73a9e20c.js",
     "static/js/2.e2a9aede.chunk.js",
-    "static/css/main.39d35986.chunk.css",
+    "static/css/main.0a32f6db.chunk.css",
     "static/js/main.046f2cc2.chunk.js"
   ]
 }
