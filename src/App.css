@@ -10,7 +10,7 @@
   grid-template-rows: repeat(12, 1fr);
   grid-column-gap: 15px;
   grid-row-gap: 15px;
-  height: 100vh;
+  height: 95vh;
   width:86%;
   margin:0 auto;
   
@@ -87,10 +87,13 @@
     grid-area: 5 / 2 / 6 / 3;
   }
   #blueButton{
-    color:rgb(95,185,250)
+    color:rgb(95,185,250);
+    margin-top: 0px;
   }
   #navyButton{
-    color:rgb(68,171,201)
+    color:rgb(68,171,201);
+    margin-top: 20px
+
   }
   #greenButton{
     color:rgb(111,171,167)
@@ -205,9 +208,10 @@
 }
 #apartment{
   margin-left: 60%;
-  margin-top: -50%
+  margin-top: -17%
 }
 #plant{
+  position: absolute;
   margin-top: -70%;
   margin-left: 25%
 }
