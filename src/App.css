@@ -56,13 +56,17 @@
     margin-top:60px;
     display:block;
     margin-bottom: 0px;
-    position:absolute
+    
+  }
+  .topRight{
+    margin-top: 80px
   }
   #pinkButton{
     color:rgb(242,157,163)
   }
   #tanButton{
-    color:rgb(204,164,132)
+    color:rgb(204,164,132);
+    grid-area: 5 / 2 / 6 / 3;
   }
   #blueButton{
     color:rgb(95,185,250)
@@ -108,7 +112,12 @@
       #div3 { grid-area: 2 / 1 / 3 / 2; }
       #div4 { grid-area: 3 / 1 / 4 / 2; }
       #div6 { grid-area: 4 / 1 / 5 / 2; }
-      #div7 { grid-area: 5 / 1 / 6 / 2; }
+      #div7 { grid-area: 5 / 1 / 6 / 2;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px; }
       #div8 { grid-area: 6 / 1 / 7 / 2; }
       #div1{
         display:none
