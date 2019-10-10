@@ -28,8 +28,8 @@ class App extends Component{
       <div className='bar' id='bar6'>Culture</div>
       <div className='bar' id='bar7'>Fashion</div>
       <div className='bar' id='bar8'>Tech</div>
-      <div className='bar' id='bar9'><img id='cube' src={Cube}></img></div>
-      <div className='bar' id='bar10'><img id='profilePic' src={ProfilePic}></img></div>
+      <div className='bar' id='bar9'><img id='cube' src={Cube}/></div>
+      <div className='bar' id='bar10'><img id='profilePic' src={ProfilePic}/></div>
     </div>
     {/*Title*/}
     <div id='div5' >
@@ -43,7 +43,7 @@ class App extends Component{
       <h1 className='titles'>9 Air-Cleaning Plants Your Home Needs</h1>
       <br/>
       <button id='navyButton'><b>Read for $0.09</b></button>
-      <img id='plant' className='artImg' src={Part5}></img>
+      <img id='plant' className='artImg' src={Part5}/>
     </div>
 
     <div id='div3' className='article'>
@@ -51,7 +51,7 @@ class App extends Component{
       <h1 className='titles'>One Month Sugar Detox</h1>
       <br/>
       <button id='pinkButton'><b>Read for $0.99</b></button>
-      <img id='otherHand' className='artImg' src={Part6}></img>
+      <img id='otherHand' className='artImg' src={Part6}/>
     </div>
 
     <div id='div4' className='article'>
@@ -59,7 +59,7 @@ class App extends Component{
       <h1 className='titles'>Shooting Minimal Instagram Photos</h1>
       <br/>
       <button id='blueButton'><b>Read for $0.29</b></button>
-      <img className='artImg' id='apartment' src={Part7}></img>
+      <img className='artImg' id='apartment' src={Part7}/>
     </div>
 
     <div id='div6' className='article'>
@@ -67,7 +67,7 @@ class App extends Component{
       <h1 className='titles'>The Brand New NASA Office</h1>
       <br/>
       <button className='topRight' id='blackButton'><b>Read for $0.19</b></button>
-      <img className='artImg' id='cornerOne' src={Part2}></img>
+      <img className='artImg' id='cornerOne' src={Part2}/>
     </div>
 
     <div id='div7' className='article'>
@@ -75,7 +75,7 @@ class App extends Component{
       <h1  className='titles'>Experience the Saharan Sands</h1>
       <br/>
       <button  id='tanButton' className='topRight'><b>Read for $0.29</b></button>
-      <img className='artImg' id='hand' src={Part4}></img>
+      <img className='artImg' id='hand' src={Part4}/>
     </div>
 
     <div id='div8' className='article'>
